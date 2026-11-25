@@ -19,7 +19,7 @@ Learn structured prompting for AI image generation using Google Gemini and Nano 
 - Join the Google Meet session using the link provided by the organiser.
 - Attend the session and follow the instructions carefully.
 
-🔗 **Google Meet:** [Click here to join](ADD_GOOGLE_MEET_LINK)
+🔗 **Google Meet:** [Click here to join](https://meet.google.com/kzq-jwrd-enb)
 
 ### 3. Complete the Pre-Session Survey
 
