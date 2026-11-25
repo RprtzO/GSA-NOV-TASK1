@@ -123,7 +123,7 @@ By the end of this activity, you should have:
 | 🔵 Pre-Session Survey | [Open Survey](https://producttrialsurvey.geministudentambassador.com/) |
 | 🟣 Google Gemini | [Open Gemini](https://gemini.google.com/app?pli=1) |
 | 🟢 Post-Session Survey | [Open Feedback Form](https://producttrialfeedback.geministudentambassador.com/) |
-| 🔴 Google Meet | [Join Session](ADD_GOOGLE_MEET_LINK) |
+| 🔴 Google Meet | [Join Session](https://meet.google.com/kzq-jwrd-enb) |
 
 ---
 
