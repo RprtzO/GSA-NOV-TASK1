@@ -130,3 +130,9 @@ By the end of this activity, you should have:
 **Organised as part of the Google Student Ambassador Program.**
 
 *Imagine it. Prompt it. Generate it. Bring your game world to life! 🚀*
+
+## 🔗 Important Links
+
+| Resource | Link |
+|---|---|
+|  Prompt file  | [Open pdf File](https://docs.google.com/document/d/1qsuTvmc-wiPm1iGxg88g3v49mI2T1b1mcrQfrcTXiqM/edit?usp=sharing) |
