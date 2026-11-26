@@ -1,6 +1,8 @@
 # 🚀 GSA-NOV-TASK1 | Structured Prompting for AI Image Generation
 
-> **Task 1 – 25 November | Google Student Ambassador Program**
+> **Task 1 – 26 November 2026 | Google Student Ambassador Program**
+
+---
 
 ## 🎯 Task Description
 
@@ -16,7 +18,7 @@ Learn structured prompting for AI image generation using Google Gemini and Nano 
 - Ensure you use the same Google account throughout the activity.
 
 ### 2. Join the Google Meet Session
-- Join the Google Meet session using the link provided by the organiser.
+- Join the Google Meet session using the link provided below.
 - Attend the session and follow the instructions carefully.
 
 🔗 **Google Meet:** [Click here to join](https://meet.google.com/kzq-jwrd-enb)
@@ -25,12 +27,16 @@ Learn structured prompting for AI image generation using Google Gemini and Nano 
 
 Before starting the activity, complete the pre-session survey using your registered Google account.
 
-<a href="https://producttrialsurvey.geministudentambassador.com/"><img src="https://img.shields.io/badge/PRE--SESSION_SURVEY-4285F4?style=for-the-badge&logo=googleforms&logoColor=white" alt="Pre Survey"/></a>
+<p>
+<a href="https://producttrialsurvey.geministudentambassador.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/PRE--SESSION_SURVEY-4285F4?style=for-the-badge&logo=googleforms&logoColor=white" alt="Pre Session Survey"/>
+</a>
+</p>
 
 **Ambassador Details:**
 
 | Field | Details |
-|---|---|
+|:---|:---|
 | Ambassador Name | PRATIK |
 | Ambassador GID | 9710 |
 | Ambassador Gmail | pratik706sskg@gmail.com |
@@ -42,6 +48,7 @@ Before starting the activity, complete the pre-session survey using your registe
 - Listen carefully to the session content.
 - Understand how a structured prompt should be written to achieve the desired AI-generated results.
 - Learn the essential elements of prompting, including:
+
   - Subject and main concept
   - Environment and background
   - Lighting and atmosphere
@@ -54,13 +61,18 @@ Before starting the activity, complete the pre-session survey using your registe
 Now apply the structured prompting techniques to the imaginary game you want to build.
 
 **Your task is to:**
+
 1. Think of an original game concept.
 2. Develop a detailed and structured image-generation prompt.
 3. Describe the game's characters, environment, storyline, and visual identity.
 4. Create a promotional game banner or poster using the **Nano Banana image generation model** in Google Gemini.
 5. Refine your prompt to improve the generated image.
 
-<a href="https://gemini.google.com/app?pli=1"><img src="https://img.shields.io/badge/OPEN_GOOGLE_GEMINI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
+<p>
+<a href="https://gemini.google.com/app?pli=1" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/OPEN_GOOGLE_GEMINI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+</a>
+</p>
 
 ### 6. Save Your Generated Work
 
@@ -70,18 +82,22 @@ Keep the following ready for the post-session survey:
 - Your Google Gemini chat conversation link.
 - Your final AI-generated game banner or poster image link.
 
-Make sure the sharing permissions allow the organiser to access your work.
+**Note:** Make sure the sharing permissions allow the organiser to access your work.
 
 ### 7. Complete the Post-Session Survey
 
 After completing the activity, fill in the post-session feedback form.
 
-<a href="https://producttrialfeedback.geministudentambassador.com/"><img src="https://img.shields.io/badge/POST--SESSION_FEEDBACK-34A853?style=for-the-badge&logo=googleforms&logoColor=white" alt="Post Survey"/></a>
+<p>
+<a href="https://producttrialfeedback.geministudentambassador.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/POST--SESSION_FEEDBACK-34A853?style=for-the-badge&logo=googleforms&logoColor=white" alt="Post Session Feedback"/>
+</a>
+</p>
 
 **Use the same Ambassador Details:**
 
 | Field | Details |
-|---|---|
+|:---|:---|
 | Ambassador Name | PRATIK |
 | Ambassador GID | 9710 |
 | Ambassador Gmail | pratik706sskg@gmail.com |
@@ -116,23 +132,50 @@ By the end of this activity, you should have:
 
 ---
 
-## 🔗 Important Links
+## 📄 Prompt Document
 
-| Resource | Link |
-|---|---|
-| 🔵 Pre-Session Survey | [Open Survey](https://producttrialsurvey.geministudentambassador.com/) |
-| 🟣 Google Gemini | [Open Gemini](https://gemini.google.com/app?pli=1) |
-| 🟢 Post-Session Survey | [Open Feedback Form](https://producttrialfeedback.geministudentambassador.com/) |
-| 🔴 Google Meet | [Join Session](https://meet.google.com/kzq-jwrd-enb) |
+Access the structured prompting reference document below:
+
+<p align="center">
+<a href="https://docs.google.com/document/d/1qsuTvmc-wiPm1iGxg88g3v49mI2T1b1mcrQfrcTXiqM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/VIEW_PROMPT_DOCUMENT-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Prompt Document"/>
+</a>
+</p>
 
 ---
 
+## 🔗 Important Links – Quick Access
+
+<p align="center">
+<a href="https://producttrialsurvey.geministudentambassador.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/01_PRE--SURVEY-4285F4?style=for-the-badge&logo=googleforms&logoColor=white" alt="Pre Survey"/>
+</a>
+
+<a href="https://meet.google.com/kzq-jwrd-enb" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/02_GOOGLE_MEET-EA4335?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Google Meet"/>
+</a>
+
+<a href="https://gemini.google.com/app?pli=1" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/03_GOOGLE_GEMINI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</a>
+
+<a href="https://producttrialfeedback.geministudentambassador.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/04_POST--SURVEY-34A853?style=for-the-badge&logo=googleforms&logoColor=white" alt="Post Survey"/>
+</a>
+
+<a href="https://docs.google.com/document/d/1qsuTvmc-wiPm1iGxg88g3v49mI2T1b1mcrQfrcTXiqM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/05_PROMPT_DOCUMENT-FBBC04?style=for-the-badge&logo=googledocs&logoColor=black" alt="Prompt Document"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+
 **Organised as part of the Google Student Ambassador Program.**
 
-*Imagine it. Prompt it. Generate it. Bring your game world to life! 🚀*
+### ✨ Imagine it. Prompt it. Generate it.
 
-## 🔗 Important Links
+*Bring your game world to life with AI! 🚀*
 
-| Resource | Link |
-|---|---|
-|  Prompt file  | [Open pdf File](https://docs.google.com/document/d/1qsuTvmc-wiPm1iGxg88g3v49mI2T1b1mcrQfrcTXiqM/edit?usp=sharing) |
+</p>
